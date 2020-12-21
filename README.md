@@ -19,7 +19,7 @@ In your `up()` migration method:
 ```php
 ...
 
-use UpdatesEnumField;
+use \lyyka\UpdatesEnumField;
 
 /**
 * Run the migrations.
