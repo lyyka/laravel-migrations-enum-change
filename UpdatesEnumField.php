@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Traits;
+namespace lyyka;
 
 use DB;
 
