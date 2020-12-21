@@ -1,0 +1,15 @@
+{
+    "name": "lyyka/laravel-migrations-enum-change",
+    "description": "Package provideMySQL enum fields easier then writing the query yourself.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luka Robajac",
+            "email": "luka.robajac@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
